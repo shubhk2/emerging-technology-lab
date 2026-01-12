@@ -11,3 +11,4 @@
 - git commands-Bashar
 - understanding conflicts-Rashi
 - making branches - Satya
+-GIT CONFLICTS-Abhay Rawat
